@@ -1,1 +1,7 @@
 com\parcial2\Main.class
+com\parcial2\Juego\Criatura.class
+com\parcial2\Juego\Dragon.class
+com\parcial2\Juego\Volador.class
+com\parcial2\Juego\Mago.class
+com\parcial2\Juego\Arma.class
+com\parcial2\Juego\Magico.class
