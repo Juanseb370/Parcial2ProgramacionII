@@ -24,6 +24,10 @@ public class Dragon extends Criatura implements Volador {
         return this.Fuerza;
     }
 
+    public boolean getVolando() {
+        return this.Volando;
+    }
+
     @Override
     public void atacar(Criatura objetivo) {
         int danoTotal = this.Fuerza * 2;

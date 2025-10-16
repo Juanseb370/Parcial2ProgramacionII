@@ -27,6 +27,10 @@ public class Mago extends Criatura implements Magico {
         return this.Fuerza;
     }
 
+    public String getHechizo() {
+        return this.Hechizos;
+    }
+
     @Override
     public void atacar(Criatura objetivo) {
         lanzarHechizo();
